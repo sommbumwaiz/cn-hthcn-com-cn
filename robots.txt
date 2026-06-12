@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sommbumwaiz.github.io/cn-hthcn-com-cn/sitemap.xml
